@@ -16,3 +16,6 @@ Velkommen til studieretningsprojektet "Forbedring af talesignal ved brug af stø
 
 (:) Frekvensfiltering
 (:) støjreduktion ved thresholding
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niels-overby/SRP2021/blob/main/Examples.ipynb#scrollTo=HscEQ3xbxlhM)
